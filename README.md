@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-| Nombre | Código |
-|--------|--------|
+| Nombre |
+|--------|
 |Mateo Ramirez Garcia|
 
 ## Casos desarrollados
