@@ -4,9 +4,7 @@
 
 | Nombre | Código |
 |--------|--------|
-| _Integrante 1_ | _código_ |
-| _Integrante 2_ | _código_ |
-| _Integrante 3_ | _código_ |
+|Mateo Ramirez Garcia|
 
 ## Casos desarrollados
 
